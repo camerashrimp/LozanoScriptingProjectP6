@@ -1,2 +1,2 @@
 # LozanoScriptingProjectP6
-creating repo for project
+creating repo for new project
